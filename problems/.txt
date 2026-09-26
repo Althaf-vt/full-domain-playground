@@ -1,0 +1,247 @@
+find average score of each class from an array of student objects ✅
+
+convert a nested object into flat object✅
+
+convert a nested array into flat array✅
+
+DS
+
+---
+
+recursive function to find sum of even numbers in an array✅
+
+
+remove first instance of odd value from a linkedlist ✅
+
+benefits static memory allocation
+
+React
+
+-------
+
+workout: form submission involving child to parent data transfer
+
+benefits of uncontrolled elements
+
+limitations of functional components
+
+incremental rendering
+
+trie serialization and deserialization
+
+bounded queues
+
+array amortization !
+
+why can't we use window object instead of context
+
+materialized views
+
+write concern
+
+read concern
+
+node-express
+
+-------------
+
+working flow of JWT
+
+router level middleware implementation
+
+
+mongo
+
+------
+
+how to increase availability in a distributed system
+
+difference between highest & lowest salary from an employee collection
+
+
+Js 
+
+-implement promiseAll and promise Allsettled (practical)
+
+-convert callback hell into promise chaining(practical)
+
+-object.freeze (practical) ✅
+
+-Object.defineProperty(practical and theory) ✅
+
+-sum of values of nested objects (practical) ✅
+
+-create a general function to find sum of any level of deeply nested object(practical) ✅
+
+-convert [1,2,0,[3,7]] into 2,4,0,6,14 using only array methods(practical) ✅
+
+-create a promise resolve it in if-block using some condition using array.some() and with current date printed in a file using fs module(practical)
+
+========================================================================================================
+
+Paloli==============
+- degenerate tree ✅
+- monotonic stack !!
+- monotonic queue !!
+- separate chaining ✅
+- hashtable time complexity
+- implement stack with methods push, pop and getMax. All of the should
+work in o(1) time. ✅
+- how to minimize collision
+- bloom filters
+- minimal perfect hash function ✅
+- Weighted graph
+- write a function to check if a linked list is circular or not
+- write a function which will check if a target value is present in an sorted 2d
+array. ✅
+let arr =
+[
+[1,2,4],
+[5,7,9],
+[12,34,45]
+]
+let target = 9
+
+
+Anbin==========
+sort a stack using temporary stack ✅
+hashtable implementation 
+AVL
+Quadratic probing
+double hashing
+sort a stack using temporary stack ✅
+find depth of bst-partial !!!
+
+GR============
+- rehashing
+- backtracking
+- ASCII vs UTF-8
+- homogeneous
+- shuffle array ✅
+- selection sort (partially done)
+- Title Case string (partially done) ✅
+- advantages of static memory allocation
+- remove extra whitespaces from string !!!
+- stack with ability to pop from both ends with constant time complexity ✅
+
+Rahul ranjan ============
+-Remove the duplicate from nested array using recursion or without !!!
+-Convert nested array into flat array using recursion or without !!!
+-Write a code to find the longest substring pelindrome in the given string ✅
+-Binary search using recursion 
+-Find the longest common prefix using trie !!!
+-Write a code to check if given parenthesis is balenced?✅
+-Reverse the string to it's own place using stack
+-find middle element using linklist
+-Read BST, BT, Graph quetions, Heap sort
+
+aparna=========
+quick sort
+remove duplicates from a string - completion ✅
+reverse a stack
+
+swathy========
+Linked list chaining
+Probing
+Collision control
+Spanning tree
+hashmap
+
+Pranav =======
+find the longest consecutive repeating characters in string ✅
+Input: tryurrrrrtrttrr
+output should be rrrrr
+find the second longest word in sentence without inbuilt split function ✅
+input: my name is Rahul
+output should be name
+
+Vipin Vargees========
+1. const ab= [1,3,9,45,123,12,112,123,12,-1,-2,-3]
+// 9 + 3 + 1 = 13
+// 12 + 123+ 45 = ...
+// 12+123 + 112 = ..
+2. 100 98 94 88 80 70 58 44 28 10
+// Print elements in this order✅
+3. Sum of middle 5 elements in linked list✅
+4. Merge Sort
+5. Quick Sort
+6. const ab = [{a:[34,3433]},{a:[34,3433]},{a:[334,3431]}]
+// count number of 3 in the array of objects ✅
+7. Common Elements in two array Using hash table. ✅
+8. let arr = [[1],[4,2],[6,1,3],[8,2,1,4]]✅
+// Print 1 2 3 4
+
+Jeswin=========
+Sparse array
+Jagged array
+Load factor
+Linear probing
+Quadratic probing
+Segment tree
+Red black tree
+Minimum spanning tree
+
+Jobin George=========
+Divide and conquer
+- Shortest distance algorithm
+- DFS - backtracking
+- Complete binary tree example
+
+Pranav Shankar=======
+-remove the middle element from array ✅
+-time complexity of quick sort
+-create a function that time complexity should be O(n log n)
+-find the longest consecutive repeating characters in string ✅
+
+============================================
+
+recursive function to find sum of even numbers in an array✅
+method to insert elements in ascending order to a stack 
+Application: double ended queue
+Shortest path algorithm
+⁠Complete binary tree example 
+⁠⁠Min value node in BST code - recursion !!!
+send request to endpoint to get status code and data
+ modify array stored in ref
+ why are states immutable?
+ derived states
+ reading query params
+
+- knowing token expiry
+- why shouldn’t hooks be in conditional statements
+- why StrictMode renders twice
+- reading file size
+
+- subdomains
+- roles of reverse proxy in hosting (vague)
+- how browser cache works
+
+
+Dynamic routing
+Req.params, req.query in one route as output: Anu is an HR and Amal is an CEO✅
+
+Methods in events module
+
+- built in components in react
+
+Router level middleware to block a req.url
+
+create a linkedlist and find the avg  ✅
+
+const mixedArray = [
+1,
+"hello",
+true,
+null,
+2,
+-2,
+undefined,
+{ id: 101, name: "Arjun" },
+199,
+[10, 20, 30],
+45.6,
+false,
+() => "I am a function"
+];
+
+find the sum of positive values from this arr?  ✅

@@ -1,0 +1,36 @@
+W1================
+
+useEffect demo
+Color change text
+Child to parent
+Counter app
+Live text
+Fragment
+
+W2================
+Color change text
+Counter with context
+Counter reducer
+Count with reducer & contxt
+React Memo
+Reducer list
+Resize window
+Theme context
+useMemo
+useReducer
+stopWatch using context
+C-hook
+Reducer list
+
+
+W3================
+Redux counter
+Redux counter with c-hook
+Child to parent
+Auto Increment
+Redux counter
+Create a login page and give validations and submittions 
+
+
+
+

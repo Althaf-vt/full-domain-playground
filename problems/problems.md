@@ -1,17 +1,6 @@
 # 🧠 Full Domain — Problems & Practice
 
 > A collection of questions, coding problems, concepts, and practical tasks collected during **Full Domain preparation**.
->
-> **Status:** All problems are intentionally unchecked. Mark them as completed as you solve them.
-
----
-
-## 📌 Progress
-
-* ⬜ Not Started
-* ☑️ Completed
-
-> **Tip:** Replace `- [ ]` with `- [x]` when you complete a problem.
 
 ---
 
